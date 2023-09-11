@@ -1,0 +1,180 @@
+
+  /* @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Roboto&family=Roboto+Condensed:wght@300&display=swap'); */
+
+  @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Roboto&family=Roboto+Condensed:wght@700&display=swap');
+
+*{
+    margin: 0;
+}
+.homeimg{
+    height:100vh;
+   width: 100%;
+    background-size: cover;
+    
+}
+.Twologo2{
+    position: absolute;
+    top: 170px;
+    left: 275px;
+     height: 135px;
+     display: flex;
+     flex-direction:row;
+     justify-content: space-between;
+     gap:30px;
+}
+.Twologo1{
+    position: absolute;
+    top: 170px;
+    left: 100px;
+     height: 150px;
+     display: flex;
+     flex-direction:row;
+     justify-content: space-between;
+     gap:30px;
+}
+.headingmain{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+position: absolute;
+color: white;
+top: 340px;
+left: 100px;
+font-size: 40px;
+width: 500px;
+height: 110px;
+font-weight: 900px;
+
+}
+.mainpara{
+    color: white;
+    position: absolute;
+    top: 450px;
+    left: 100px;
+    font-size: 21px;
+    font-weight: 500;
+
+}
+.buttonns{
+    position: absolute;
+    top: 550px;
+    left: 100px;
+    width:555.52px;
+    height:70.45px;
+}
+.button1{
+    width: 305.19px;
+    height: 70.45px;
+    color: white;
+    font-size:13px;
+    border: 2px solid white;
+    background-color: transparent;
+    font-weight:bolder;
+    border-radius: 7px;
+}
+.button1:hover{
+    background-color: white;
+    color: black;
+}
+.button2{
+    width: 230.33px;
+    height: 70.45px;
+    color: white;
+    border: 2px solid white;
+    background-color: transparent;
+    font-size:13px;
+    font-weight:bolder;
+    position: relative;
+    left: 20px;
+    border-radius: 7px;
+}
+.button2:hover{
+    background-color: white;
+    color: black;
+}
+.homeimg2{
+    width: 100%;
+    height:300vh;
+    /* width: 100%; */
+     background-size: cover;
+     
+}
+.poster{
+    position: absolute;
+    /* width: 100%; */
+    height:1083.87px;
+    width:1248px;
+    right: 30px;
+    top: 200px;
+    align-items: center;
+
+}
+.mid2{
+position:relative;
+top:-10px;
+}
+.playonlinelogo{
+    position: absolute;
+    top: 1288px;
+    right: 810px;
+     height: 150px;
+
+}
+.paragraph2{
+    /* font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif; */
+    position: absolute;
+    top: 1450px;
+    right: 319px;
+    width:640px;
+    height: 556px;
+    color: white;
+    font-size:22px;
+}
+.paragraph2 h1{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.homeimg3{
+    position:absolute;
+    top: 2708px;
+    width: 100%;
+    height:300vh;
+    /* width: 100%; */
+     background-size: cover;
+     
+    }
+    .poster1{
+        position: absolute;
+        height:1083.87px;
+        width:1248px;
+        right:30px;
+       top:2800px;
+    
+    }
+    .paragraph3{
+        /* font-family: 'PT Sans Narrow', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Roboto Condensed', sans-serif; */
+        position: absolute;
+        top: 4040px;
+        right: 319px;
+        width:640px;
+        height: 556px;
+        color: white;
+        font-size:22px;
+    }
+    .paragraph3 h1{
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+    .playonlinelogo1{
+        position: absolute;
+        top:3889px;
+        right: 810px;
+         height: 150px;
+    
+    }
